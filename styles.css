@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+  background-color: lightgray;
+}
+.container {
+  background-color: white;
+  width: 40rem;
+  height: 35rem;
+  margin: auto;
+  margin-top: 5rem;
+  padding: 2rem 0;
+  text-align: center;
+  border-radius: 2rem;
+}
+.myPic {
+  display: block;
+  width: 12rem;
+  border: 2px solid gray;
+  border-radius: 50%;
+  margin: auto;
+}
+.myName {
+  display: block;
+  width: 12rem;
+  margin: auto;
+  margin-top: 2rem;
+  font-size: 2rem;
+  border-bottom: 0.2rem solid rgba(196, 194, 194, 0.152);
+}
+.desc {
+ 
+  font-family: sans-serif;
+  margin-top: 3rem;
+}
+.icons {
+  background-color: lightgray;
+  padding: 1rem 0;
+  margin: 4rem 0 0 0;
+}
